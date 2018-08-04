@@ -1,0 +1,10 @@
+C:\Users\oksbe\source\repos\Novikov\Task3\bin\Debug\Task3.exe.config
+C:\Users\oksbe\source\repos\Novikov\Task3\bin\Debug\Task3.exe
+C:\Users\oksbe\source\repos\Novikov\Task3\bin\Debug\Task3.pdb
+C:\Users\oksbe\source\repos\Novikov\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\Novikov\Task3\obj\Debug\Task3.exe
+C:\Users\oksbe\source\repos\Novikov\Task3\obj\Debug\Task3.pdb
+C:\Users\oksbe\source\repos\Novikov\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\oksbe\source\repos\Novikov\Task3\bin\Debug\Task1.exe
+C:\Users\oksbe\source\repos\Novikov\Task3\bin\Debug\Task1.pdb
+C:\Users\oksbe\source\repos\Novikov\Task3\bin\Debug\Task1.exe.config

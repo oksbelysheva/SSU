@@ -1,0 +1,7 @@
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\2InverseMod\bin\Debug\2InverseMod.exe.config
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\2InverseMod\bin\Debug\2InverseMod.exe
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\2InverseMod\bin\Debug\2InverseMod.pdb
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\2InverseMod\obj\Debug\2InverseMod.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\2InverseMod\obj\Debug\2InverseMod.exe
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\2InverseMod\obj\Debug\2InverseMod.pdb
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\2InverseMod\obj\Debug\2InverseMod.csprojResolveAssemblyReference.cache

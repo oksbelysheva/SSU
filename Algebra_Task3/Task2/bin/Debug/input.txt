@@ -1,0 +1,8 @@
+x y z
+6
+yx=xy
+xxx=xx
+yy=x
+zx=xz
+zy=yz
+zz=z

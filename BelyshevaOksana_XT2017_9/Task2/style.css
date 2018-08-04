@@ -1,0 +1,19 @@
+body{
+	margin: 10px;
+	line-height: 20px;
+}
+
+label{
+	font-size: 20px;
+	font-style: bold;
+}
+
+button {
+  color: black;
+  background: lightgrey;
+  padding: .7em 1.5em;
+  outline: none;
+  border: 0;
+} 
+button:hover { background: silver; }
+button:active { background: darkgray; }

@@ -1,0 +1,101 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body{
+	background: #333333;
+}
+
+.outer:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.inner {
+  display: inline-block;
+  vertical-align: middle;
+  color: white;
+}
+
+.outer {
+  text-align: center;
+  height: 100%;
+}
+.rectangle{
+	display: inline-block;
+	position: fixed;
+	width: 98%;
+    height: 20%;
+    left: 1%;
+    top: 40%;
+    text-align: center;
+    background: #88b7d5;
+    border: #c2e1f5 4px solid;
+}
+
+.triangle_up{
+	left: 50%;
+	top: 40%;
+    margin-left: -25px;
+    margin-top: -40px;
+    z-index: 2;
+	display: inline-block;
+	position: fixed;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid #88b7d5;
+}
+
+.triangle_up_border{
+	left: 50%;
+    top: 40%;
+    margin-left: -26px;
+    margin-top: -51px;
+    z-index: 1;
+    display: inline-block;
+    position: fixed;
+    border-left: 26px solid transparent;
+    border-right: 26px solid transparent;
+    border-bottom: 52px solid #c2e1f5;

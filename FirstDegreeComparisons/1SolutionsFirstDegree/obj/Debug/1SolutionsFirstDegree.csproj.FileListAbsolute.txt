@@ -1,0 +1,7 @@
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\1SolutionsFirstDegree\bin\Debug\1SolutionsFirstDegree.exe.config
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\1SolutionsFirstDegree\bin\Debug\1SolutionsFirstDegree.exe
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\1SolutionsFirstDegree\bin\Debug\1SolutionsFirstDegree.pdb
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\1SolutionsFirstDegree\obj\Debug\1SolutionsFirstDegree.csprojResolveAssemblyReference.cache
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\1SolutionsFirstDegree\obj\Debug\1SolutionsFirstDegree.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\1SolutionsFirstDegree\obj\Debug\1SolutionsFirstDegree.exe
+C:\Users\oksbe\source\repos\FirstDegreeComparisons\1SolutionsFirstDegree\obj\Debug\1SolutionsFirstDegree.pdb

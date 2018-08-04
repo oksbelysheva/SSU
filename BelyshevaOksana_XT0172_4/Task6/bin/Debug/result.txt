@@ -1,0 +1,5 @@
+SimpleSeekPositive 0
+DelegateSeekPositiveElement 0
+AnonymusSeekPositiveElement 0
+LambdaSeekPositiveElement 0
+LINQSeekPositiveElement 0,22

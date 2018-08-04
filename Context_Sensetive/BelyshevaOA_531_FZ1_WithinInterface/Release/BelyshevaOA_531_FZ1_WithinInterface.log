@@ -1,0 +1,2 @@
+﻿  BelyshevaOA_531_FZ1_WithinInterface.cpp
+c:\users\oksbe\source\repos\context_sensetive\belyshevaoa_531_fz1_withininterface\belyshevaoa_531_fz1_withininterface.cpp(16): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.

@@ -1,0 +1,20 @@
+ul{
+	list-style-type: none;
+}
+
+h1{
+	font-size: 30px;
+	font-style: bold;
+}
+
+button {
+  color: black;
+  background: lightgrey;
+  padding: .7em 1.5em;
+  margin: 5px;
+  outline: none;
+  border: 0;
+} 
+button:hover { background: silver; }
+button:active { background: darkgray; }
+

@@ -1,0 +1,141 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body{
+	background: #4e6379;
+	text-align: center;
+}
+
+.layout { 
+	width: 560px;
+	margin: auto; 
+    position: relative;
+    padding-top: 20px; 
+}
+
+.nav, .content, .sidebar { 
+	background: white;
+    position: absolute;
+    color: #FFF;
+    display: block;
+    height: 140px;
+}
+
+.nav { 
+    width: 180px;
+    color: #000;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.content { 
+    width: 180px; 
+    color: #000;
+    left: 180px;
+}
+
+.sidebar { 
+    width: 180px;
+    left: 360px;
+    color: #000;
+}
+
+.crop{
+	float:left;
+	margin:.5em 10px .5em 0;
+	overflow:hidden;
+	}
+
+.crop img{
+        margin:0px 0px -90px 0px;
+	}
+
+.crop2{
+	float:left;
+	margin:.5em 10px .5em 0;
+	overflow:hidden;
+}
+
+.crop2 img{
+    margin: -44px 0px -47px 0px;
+}
+
+.crop3{
+	float:left;
+	margin:.5em 10px .5em 0;
+	overflow:hidden;
+}
+
+.crop3 img{
+    margin: -86px 0px -4px 0px;
+}
+
+.title{
+	color: #f56f5b;
+	display: block;
+	font-size: 15px;
+}
+
+.text{
+	color: grey;
+	display: block;
+	padding-top: 15px;
+	font-size: 12px;
+}
+
+.button{
+	background: #f56332;
+	color: white;
+	border: none;
+	margin-top: 5px;
+	height: 20px;
+	border-radius: 2px;
+}
+
+hr{
+	width: 1px;
+    height: 130px;
+    margin-top: -125px;
+    margin-left: 179px;
+    border: #e6e6e6 1px solid;
+}

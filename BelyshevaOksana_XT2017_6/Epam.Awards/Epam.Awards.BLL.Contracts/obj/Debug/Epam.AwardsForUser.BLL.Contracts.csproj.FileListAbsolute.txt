@@ -1,0 +1,8 @@
+C:\Users\oksbe\source\repos\BelyshevaOksana_XT2017_6\Epam.Awards\Epam.Awards.BLL.Contracts\bin\Debug\Epam.Awards.BLL.Contracts.dll
+C:\Users\oksbe\source\repos\BelyshevaOksana_XT2017_6\Epam.Awards\Epam.Awards.BLL.Contracts\bin\Debug\Epam.Awards.BLL.Contracts.pdb
+C:\Users\oksbe\source\repos\BelyshevaOksana_XT2017_6\Epam.Awards\Epam.Awards.BLL.Contracts\bin\Debug\Epam.Awards.Entities.dll
+C:\Users\oksbe\source\repos\BelyshevaOksana_XT2017_6\Epam.Awards\Epam.Awards.BLL.Contracts\bin\Debug\Epam.Awards.Entities.pdb
+C:\Users\oksbe\source\repos\BelyshevaOksana_XT2017_6\Epam.Awards\Epam.Awards.BLL.Contracts\obj\Debug\Epam.AwardsForUser.BLL.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\oksbe\source\repos\BelyshevaOksana_XT2017_6\Epam.Awards\Epam.Awards.BLL.Contracts\obj\Debug\Epam.AwardsForUser.BLL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\BelyshevaOksana_XT2017_6\Epam.Awards\Epam.Awards.BLL.Contracts\obj\Debug\Epam.Awards.BLL.Contracts.dll
+C:\Users\oksbe\source\repos\BelyshevaOksana_XT2017_6\Epam.Awards\Epam.Awards.BLL.Contracts\obj\Debug\Epam.Awards.BLL.Contracts.pdb

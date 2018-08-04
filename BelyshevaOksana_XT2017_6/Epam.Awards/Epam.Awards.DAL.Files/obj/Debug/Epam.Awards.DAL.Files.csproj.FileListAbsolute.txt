@@ -1,0 +1,10 @@
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\bin\Debug\Epam.Awards.DAL.Files.dll
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\bin\Debug\Epam.Awards.DAL.Files.pdb
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\bin\Debug\Epam.Awards.DAL.Contracts.dll
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\bin\Debug\Epam.Awards.Entities.dll
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\bin\Debug\Epam.Awards.DAL.Contracts.pdb
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\bin\Debug\Epam.Awards.Entities.pdb
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\obj\Debug\Epam.Awards.DAL.Files.csprojResolveAssemblyReference.cache
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\obj\Debug\Epam.Awards.DAL.Files.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\obj\Debug\Epam.Awards.DAL.Files.dll
+C:\Users\oksbe\source\repos\Epam.Awards\Epam.Awards.DAL.Files\obj\Debug\Epam.Awards.DAL.Files.pdb

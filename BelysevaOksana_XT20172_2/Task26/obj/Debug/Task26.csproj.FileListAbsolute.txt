@@ -1,0 +1,10 @@
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\bin\Debug\Task26.exe.config
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\bin\Debug\Task26.exe
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\bin\Debug\Task26.pdb
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\bin\Debug\Task21.exe
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\bin\Debug\Task21.pdb
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\bin\Debug\Task21.exe.config
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\obj\Debug\Task26.csprojResolveAssemblyReference.cache
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\obj\Debug\Task26.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\obj\Debug\Task26.exe
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task26\obj\Debug\Task26.pdb

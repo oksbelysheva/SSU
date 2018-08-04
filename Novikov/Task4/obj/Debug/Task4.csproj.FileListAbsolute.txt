@@ -1,0 +1,6 @@
+C:\Users\oksbe\source\repos\Novikov\Task4\bin\Debug\Task4.exe.config
+C:\Users\oksbe\source\repos\Novikov\Task4\bin\Debug\Task4.exe
+C:\Users\oksbe\source\repos\Novikov\Task4\bin\Debug\Task4.pdb
+C:\Users\oksbe\source\repos\Novikov\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\Novikov\Task4\obj\Debug\Task4.exe
+C:\Users\oksbe\source\repos\Novikov\Task4\obj\Debug\Task4.pdb

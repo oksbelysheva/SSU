@@ -1,0 +1,30 @@
+﻿
+@model Task1.Models.HomeViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Главная</title>
+</head>
+<body>
+    <div> 
+        <h1>Главная</h1>
+        <hr />
+
+        @Html.ActionLink("Главная", "Index", "Home");
+        @Html.ActionLink("6 из 45", "Game", "Home");
+        @Html.ActionLink("Правила", "Rules", "Home");
+        @Html.ActionLink("Баланс", "Index", "Balance");
+        <hr />
+
+        <h3>Сегодня: @Model.Now</h3>
+        <h3>Джекпот: @Model.MaxPay рублей</h3>
+        <h3>Зарегистрировано: @Model.PeopleCount человек</h3>
+</div>
+</body>
+</html>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F884BE16-7922-4CF6-A0CE-163FB0EDBBD2}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Epam.Awards.PL.Console</RootNamespace>
+    <AssemblyName>Epam.Awards.PL.Console</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Epam.Awards.BLL.Contracts\Epam.AwardsForUser.BLL.Contracts.csproj">
+      <Project>{AB02284B-F24E-402A-BE71-8BBAF07FFED4}</Project>
+      <Name>Epam.AwardsForUser.BLL.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Epam.Awards.BLL.Core\Epam.AwardsForUser.BLL.Core.csproj">
+      <Project>{d18fd98c-1401-4b35-885e-c2d8fe434bf7}</Project>
+      <Name>Epam.AwardsForUser.BLL.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Epam.Awards.DAL.Contracts\Epam.AwardsForUser.DAL.Contracts.csproj">
+      <Project>{9a3454c1-e097-49ca-bea7-ec87d2de8703}</Project>
+      <Name>Epam.AwardsForUser.DAL.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Epam.Awards.Entities\Epam.AwardsForUser.Entities.csproj">
+      <Project>{06928787-8742-43E3-83FF-7B0C8C90EED3}</Project>
+      <Name>Epam.AwardsForUser.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

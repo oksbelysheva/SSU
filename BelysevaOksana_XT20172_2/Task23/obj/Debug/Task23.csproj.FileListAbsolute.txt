@@ -1,0 +1,7 @@
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task23\bin\Debug\Task23.exe.config
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task23\bin\Debug\Task23.exe
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task23\bin\Debug\Task23.pdb
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task23\obj\Debug\Task23.csprojResolveAssemblyReference.cache
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task23\obj\Debug\Task23.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task23\obj\Debug\Task23.exe
+C:\Users\oksbe\source\repos\BelysevaOksana_XT20172_2\Task23\obj\Debug\Task23.pdb

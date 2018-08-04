@@ -1,0 +1,7 @@
+C:\Users\oksbe\source\repos\Algebra_Task3\Task2\bin\Debug\Task2.exe.config
+C:\Users\oksbe\source\repos\Algebra_Task3\Task2\bin\Debug\Task2.exe
+C:\Users\oksbe\source\repos\Algebra_Task3\Task2\bin\Debug\Task2.pdb
+C:\Users\oksbe\source\repos\Algebra_Task3\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\oksbe\source\repos\Algebra_Task3\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\oksbe\source\repos\Algebra_Task3\Task2\obj\Debug\Task2.exe
+C:\Users\oksbe\source\repos\Algebra_Task3\Task2\obj\Debug\Task2.pdb

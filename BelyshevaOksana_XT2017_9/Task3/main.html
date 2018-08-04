@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<title>Spisok</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<script src="http://code.jquery.com/jquery-3.2.1.js"
+	integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+	crossorigin="anonymous"></script>
+	<script defer src="table.js"></script>
+	<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div style="display: inline-block;">
+		<div style="float: left;">
+			<div style="float: left;">
+				<div class="container">
+					<br />
+					<form>
+						<p><b>Available</b></p>
+						<ul id = "tableAvailable">
+
+						</ul>
+					</form>
+				</div>
+			</div>
+			<div style="float: right;">
+				<br />
+				<form>
+					<input id = "replaceSelected" type=button value=">" onclick="replaceAvailable()">
+				</form>
+				<form>
+					<input id = "replaceAvailable" type=button value="<" onclick="replaceSelected()">
+				</form>
+				<form>
+					<input id = "replaceAllAvailable" type=button value="<<" onclick="replaceAllSelected()">
+				</form>
+				<form>
+					<input id = "replaceAllSelected" type=button value=">>" onclick="replaceAllAvailable()">
+				</form>
+			</div>
+		</div>
+
+		<div style="float: left;">
+			<div class="container">
+				<br />
+				<form>
+					<p><b>Selected</b></p>
+					<ul id = "tableSelected">
+
+					</ul>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="Error">
+	
+</div>
+
+
+
+</body>
+</html>

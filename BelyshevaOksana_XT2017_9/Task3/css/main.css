@@ -1,0 +1,26 @@
+body{
+	margin: 10px;
+}
+
+label{
+	font-size: 20px;
+	font-style: bold;
+}
+
+input[type="button"] {
+	color: black;
+	background: white;
+	outline: none;
+	border: black 1px solid;
+	margin-bottom: 2px;
+} 
+input[type="button"]:hover { background: silver; }
+input[type="button"]:active { background: darkgray; }
+
+.selected{ background: lightgrey;}
+
+ul{
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}

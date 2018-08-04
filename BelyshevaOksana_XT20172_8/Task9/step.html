@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>Step</title>
+    <script type="text/javascript">
+        var str = 'У попа была собака ! апы ,впав ....юююп...';
+        var splitStr = str.split(' ');
+        var signArray = ['!','?',':',';',',','.'];
+
+        while(signArray.length != 0)
+        {
+            var tempSplit = new Array();
+            var currentSign = signArray.shift();
+            for (var i = 0; i < splitStr.length; i--) {
+                var strCurrent = splitStr.shift();
+                tempSplit.push(strCurrent.split(currentSign));
+            }
+            splitStr = tempSplit;
+        }
+
+        </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+<vegetable>
+  <type>ROOT</type>
+  <name>root</name>
+  <nutritiveValue>
+    <calories>81.0</calories>
+    <carbohydrates>14.45</carbohydrates>
+    <protein>5.42</protein>
+  </nutritiveValue>
+  <weight>100.0</weight>
+  <vitamins>
+    <A>38.0</A>
+    <A1>0.0</A1>
+    <A2>0.0</A2>
+    <B1>2.0</B1>
+    <C>40.0</C>
+  </vitamins>
+  <wayForEating>FRESH</wayForEating>
+  <visualParametrs>
+    <color>GREEN</color>
+    <taste>SWEET</taste>
+  </visualParametrs>
+</vegetable>

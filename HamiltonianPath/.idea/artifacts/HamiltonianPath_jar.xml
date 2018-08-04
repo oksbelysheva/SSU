@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HamiltonianPath:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HamiltonianPath_jar</output-path>
+    <root id="archive" name="HamiltonianPath.jar">
+      <element id="module-output" name="HamiltonianPath" />
+    </root>
+  </artifact>
+</component>
